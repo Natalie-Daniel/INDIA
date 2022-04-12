@@ -1,0 +1,23 @@
+.card{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#theform {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#wm {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+
+}
+
+/* footer */
+
+footer {
+  text-align: center;
+  padding: 3px;
+}
